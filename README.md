@@ -10,5 +10,3 @@ Enable:
 - Anti-VM
 - Anti-Proxy
 
-contact me if you r.e it successfully - https://6cxl.lol
-
